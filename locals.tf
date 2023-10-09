@@ -9,3 +9,5 @@ locals {
   }
 
 }
+
+resource "null_resource" "null_fromprivate_registry" {}
